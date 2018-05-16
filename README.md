@@ -1,2 +1,1 @@
-# beer-pub
 # Beer-pub
